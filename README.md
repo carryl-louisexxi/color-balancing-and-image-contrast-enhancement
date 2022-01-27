@@ -77,7 +77,7 @@ Test 1: Using Gantry Crane (PNG)
 ![image](https://user-images.githubusercontent.com/69174836/151277416-3ab64b80-5b3e-4751-980d-d14de43c94a8.png)
 
  
-Test 2: Using Pout (TIF)
+Test 2:  Using  Pout  (TIF).
  ![image](https://user-images.githubusercontent.com/69174836/151277433-b974554a-5fa1-47e5-a21e-934cf94bf8dc.png)
 
 
