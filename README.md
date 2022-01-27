@@ -1,4 +1,4 @@
-# color-balancing-and-image-contrast-enhancement
+# color-balancing-image-&-contrast-enhancement-&-simple-median-filter-&-smart-edge-preserving-noise-filter
 
 Exercise 1 A – Color Balancing using a Reference Chart
 
